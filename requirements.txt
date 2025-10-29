@@ -9,3 +9,4 @@ PyMuPDF
 PyPDF2
 tqdm
 sentence-transformers
+pillow==10.2.0
