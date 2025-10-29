@@ -1,12 +1,11 @@
-streamlit==1.39.0
-python-dotenv
-azure-storage-blob
-google-generativeai
-pinecone-client
-langchain
-langchain-text-splitters
-PyMuPDF
-PyPDF2
+streamlit 
+python-dotenv 
+azure-storage-blob 
+google-generativeai 
+pinecone-client 
+langchain 
+PyMuPDF 
 tqdm
+langchain-text-splitters
+PyPDF2
 sentence-transformers
-pillow==10.3.0 --only-binary=:all:
