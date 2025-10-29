@@ -9,4 +9,4 @@ PyMuPDF
 PyPDF2
 tqdm
 sentence-transformers
-pillow==10.2.0
+pillow==10.3.0 --only-binary=:all:
